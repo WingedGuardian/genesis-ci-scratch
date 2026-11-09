@@ -17,7 +17,7 @@
   },
   "cases": [
     {
-      "label": "scratch: a comment-only edit that no test can notice",
+      "label": "scratch: a comment-only edit that no test can notice (round 2)",
       "why": "Write-path test of the issue filer: this case must escape.",
       "aim": "unit",
       "path": "scripts/hooks/git_push_guard.py",
